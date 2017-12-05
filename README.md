@@ -34,3 +34,7 @@ Download and use this project at your own risk.
 Any questions or pull-resquests or other contribution are welcome and we're trying to respond as soon as possible.
 But no one is responsible to respond them.
 Any responses are not responsible by anyone including Fixstars.
+
+## Acknowledgement
+
+本ソフトウェアは、国立研究開発法人新エネルギー・産業技術総合開発機構(NEDO)の委託事業「IoT推進のための横断技術開発プロジェクト」の先導調査研究テーマ「実社会ビッグデータ処理基盤を実現する大規模データセンター構築・運用技術の研究開発」（代表提案者：さくらインターネット株式会社）の一部として開発されました。
